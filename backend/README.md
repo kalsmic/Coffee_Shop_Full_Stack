@@ -39,6 +39,11 @@ Each time you open a new terminal session, run:
 ```bash
 export FLASK_APP=api.py;
 ```
+Also set the following eenvironmental variable for Auth0
+```bash
+export AUTH0_DOMAIN='your_auth0_domain'
+export API_AUDIENCE='auth0_audience'
+```
 
 To run the server, execute:
 

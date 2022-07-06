@@ -4,9 +4,10 @@
 
 ### Installing Dependencies
 
-#### Python 3.7
+#### Python 3.6.0
 
-Follow instructions to install the latest version of python for your platform in the [python docs](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
+Follow this Youtube Video or the readme guide on the [pyenv](https://github.com/pyenv/pyenv) repository to easily switch to a different version of python.
+This project is most compatible with python 3.6.0
 
 #### Virtual Enviornment
 
